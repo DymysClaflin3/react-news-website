@@ -34,7 +34,7 @@ class App extends Component {
         </div>
         <div className="row">
           <div className="col s8">
-            {/* <News news={this.state.news1} /> */}
+            <News news={this.state.news1} />
             <News news={this.state.news2} />
           </div>
           <div className="col s4">
